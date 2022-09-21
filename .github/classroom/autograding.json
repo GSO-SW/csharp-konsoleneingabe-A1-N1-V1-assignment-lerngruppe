@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Task1_Persönliche_Daten_OutpuTest",
+      "setup": "sudo apt-get update && sudo apt-get install -y apt-transport-https && sudo apt-get update && sudo apt-get install -y dotnet-sdk-6.0",
+      "run": "DOTNET_CLI_HOME=/tmp/ dotnet test --filter FullyQualifiedName!=Tests_Aufgabe1.UnitTest1.Test_InOut1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 50
+    },
+    {
+      "name": "Task1_Persönliche_Daten_DataTest",
+      "setup": "sudo apt-get update && sudo apt-get install -y apt-transport-https && sudo apt-get update && sudo apt-get install -y dotnet-sdk-6.0",
+      "run": "DOTNET_CLI_HOME=/tmp/ dotnet test --filter FullyQualifiedName!=Tests_Aufgabe1.UnitTest1.Test_InOut2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 50
+    }
+  ]
+}
