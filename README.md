@@ -29,32 +29,6 @@ Dieser Auftrag hat folgende Ziele:
 ## :bookmark_tabs: Informationsquelle
 Das Informationsmaterial zu Modul 1 finden Sie [hier](./AddFiles/SAS_Eingabe_Info.pdf)
 
-## :white_check_mark: Aufgaben
-
-### Akzeptieren und Klonen von Assignments
-
-Um das Zuweisungs-Repository zu erstellen, verwenden Sie folgenen [link]().
-
-### Allgemeine Schritte beim Schreiben von Programmen
-
-Die meisten unserer Programme werden dem gleichen allgemeinen Ablauf folgen: Informationen vom Benutzer einlesen, Daten verarbeiten/berechnen, eine Ausgabe erzeugen. Eine Möglichkeit, Ihre Gedanken zu ordnen, besteht darin, **Kommentare zu schreiben**. Verwenden Sie diese als Gliederung für den Code, den Sie schreiben werden. Beginnen Sie mit der Erstellung von Abschnitten für jede der oben genannten Gruppen.
-
-Für jedes Problem müssen Sie die nötigen Schritte zu Eingabe,Verarbeitung und Aufgabe identifizieren und sie in eine Reihenfolge bringen. Schreiben Sie die Schritte als Kommentar auf Deutsch in Ihren Code, bevor Sie programmieren. Wenn Sie das Programm sprachlich nicht umsetzen können, wissen Sie nicht genug, um den Code zu schreiben. 
-
-Bevor Sie den Code schreiben, lesen Sie das Problem und ordnen Sie die Informationen den folgenden Kategorien zu. Tun Sie dies in Kommentaren in Ihrer Codedatei. 
-
-1. **Eingabe** - welche Informationen werden vom Benutzer benötigt? Entwickeln Sie einige Beispieleingaben. Die Eingabefunktion gibt Informationen in Form einer Zeichenkette (Text) zurück. Wenn Sie nach einer Zahl fragen, vergessen Sie nicht, den Text in eine Zahl umzuwandeln, die in nachfolgenden Berechnungen verwendet werden kann. 
-
-2. **Verarbeitung** (Berechnungen) - formeln aufschreiben. Wenden Sie die Beispieleingabewerte von Hand auf Ihre Formeln an, um sie auf ihre Richtigkeit zu überprüfen.
-
-3. **Ausgabe**- was sind die gewünschten Ergebnisse? Liefern Ihre Berechnungen alles, was Sie brauchen? Wenn nicht, gehen Sie  wieder zu Punkt 2.
-
-Erst wenn Sie herausgefunden haben, was Sie tun müssen, beginnen Sie mit dem Schreiben von Code. Beginnen Sie mit dem Abschnitt Eingaben. Schreiben Sie eine Anweisung, die einen Wert vom Benutzer erhält. Sie müssen Variablen erstellen, um die Informationen zu speichern. Verwenden Sie für diese Variablen beschreibende Namen. Geben Sie nach einer Konsoleneingabe den Wert der Eingabe durch eine Konsolenausgabe wieder aus. Führen Sie das Programm zum Testen aus, um sicherzustellen, dass Ihr Code funktioniert. Wenn ja, können Sie die Konsolenausgabe entfernen oder auskommentieren und mit dem nächsten Eingabewert fortfahren. Wenn nicht, müssen Sie Ihren Code korrigieren, bis er funktioniert. Setzen Sie diesen Code- und Testzyklus fort - schreiben Sie eine Zeile Code, dann testen Sie diese.
-
-Sobald Sie alle Eingabewerte haben, fahren Sie mit dem Abschnitt Verarbeitung fort. Möglicherweise müssen Sie zusätzliche Variablen erstellen, um die berechneten Daten zu speichern. Geben Sie diese Berechnungen nach und nach aus. Stimmen sie mit den Handrechnungen überein, die Sie oben gemacht haben? Wenn nicht, korrigieren Sie Ihren Code, um die richtigen Ergebnisse zu erhalten.
-
-Schließlich schreiben Sie die Konsolenausgabe, die die Ausgabe erzeugen. In einem ersten Durchgang geben Sie einfach die gewünschte Ausgabe ein. Gehen Sie dann zurück und fügen Sie die Formatierung hinzu. Um zum Beispiel die Ausgabe in einigen der Beispiele zu erzeugen, müssen Sie möglicherweise Tabulatorzeichen in Ihre Ausgabestrings einfügen.
-
 ---
 
 ### Aufgabe 1: Persönliche Daten
