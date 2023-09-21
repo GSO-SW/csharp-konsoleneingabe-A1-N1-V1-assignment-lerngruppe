@@ -33,7 +33,7 @@ Das Informationsmaterial zu Modul 1 finden Sie [hier](./AddFiles/SAS_Eingabe_Inf
 
 ### Aufgabe 1: Persönliche Daten
 
-Lesen Sie die persönlichen Daten des Benutzers ein und speichern Sie diese in folgenden Variablen: 
+Nutzen Sie den Befehl ['Console.ReadLine()'](https://github.com/GSO-SW/public_content_gso/wiki/Grundlagen-der-Sprache-C%23#225-consolereadline--consoleread) um die persönlichen Daten des Benutzers einzulesen und speichern Sie diese in folgenden Variablen: 
 
     string vorname;
     string nachname;
